@@ -4,6 +4,8 @@
 
 One Windows machine you own. No cloud account, no subscription, no telemetry.
 
+**Current release: v1.3.10** — Windows portable exe, 188 MB, signed license checked offline.
+
 **Buy (card, instant download):** https://oweenhoper.gumroad.com/l/sovereign-os
 **Launch announcement (TH/EN):** https://sovereignoriginshop.dpdns.org/launch.html
 **Verify a release before paying:** https://sovereignoriginshop.dpdns.org/release-verify.html
